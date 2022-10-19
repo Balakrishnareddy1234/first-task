@@ -1,0 +1,15 @@
+body{
+			margin: 0%;
+		}
+		.navbar{
+			background-color: red;
+			padding: 1%;
+			text-align: center;
+
+		}
+		.navbar a{
+			color: white;
+			margin-right: 10%;
+			font-size: 16px;
+			text-decoration: none;
+			}
